@@ -12,3 +12,4 @@ int randNumber = new Random().Next(100, 1000);
 int NewNumber = CutNumber(randNumber);
 Console.WriteLine($"new version of a number {randNumber} is {NewNumber}" );
 */
+// фрпывм
