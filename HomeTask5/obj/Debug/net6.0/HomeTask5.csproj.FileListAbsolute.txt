@@ -1,0 +1,15 @@
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.csproj.AssemblyReference.cache
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.AssemblyInfoInputs.cache
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.AssemblyInfo.cs
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.csproj.CoreCompileInputs.cache
+C:\seminars\HomeTask5\bin\Debug\net6.0\HomeTask5.exe
+C:\seminars\HomeTask5\bin\Debug\net6.0\HomeTask5.deps.json
+C:\seminars\HomeTask5\bin\Debug\net6.0\HomeTask5.runtimeconfig.json
+C:\seminars\HomeTask5\bin\Debug\net6.0\HomeTask5.dll
+C:\seminars\HomeTask5\bin\Debug\net6.0\HomeTask5.pdb
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.dll
+C:\seminars\HomeTask5\obj\Debug\net6.0\refint\HomeTask5.dll
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.pdb
+C:\seminars\HomeTask5\obj\Debug\net6.0\HomeTask5.genruntimeconfig.cache
+C:\seminars\HomeTask5\obj\Debug\net6.0\ref\HomeTask5.dll
