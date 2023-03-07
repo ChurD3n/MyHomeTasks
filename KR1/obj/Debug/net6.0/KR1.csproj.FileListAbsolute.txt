@@ -1,0 +1,15 @@
+C:\seminars\KR1\bin\Debug\net6.0\KR1.exe
+C:\seminars\KR1\bin\Debug\net6.0\KR1.deps.json
+C:\seminars\KR1\bin\Debug\net6.0\KR1.runtimeconfig.json
+C:\seminars\KR1\bin\Debug\net6.0\KR1.dll
+C:\seminars\KR1\bin\Debug\net6.0\KR1.pdb
+C:\seminars\KR1\obj\Debug\net6.0\KR1.csproj.AssemblyReference.cache
+C:\seminars\KR1\obj\Debug\net6.0\KR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\seminars\KR1\obj\Debug\net6.0\KR1.AssemblyInfoInputs.cache
+C:\seminars\KR1\obj\Debug\net6.0\KR1.AssemblyInfo.cs
+C:\seminars\KR1\obj\Debug\net6.0\KR1.csproj.CoreCompileInputs.cache
+C:\seminars\KR1\obj\Debug\net6.0\KR1.dll
+C:\seminars\KR1\obj\Debug\net6.0\refint\KR1.dll
+C:\seminars\KR1\obj\Debug\net6.0\KR1.pdb
+C:\seminars\KR1\obj\Debug\net6.0\KR1.genruntimeconfig.cache
+C:\seminars\KR1\obj\Debug\net6.0\ref\KR1.dll
